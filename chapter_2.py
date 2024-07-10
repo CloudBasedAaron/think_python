@@ -16,6 +16,6 @@ print(should_equal_one) # Output: 1.0
 
 # Exercise 3
 
-print(math.e ** 2)
-print(math.pow(math.e, 2))
-print(math.exp(2))
+print(math.e ** 2)  # Output: 7.3890560989306495
+print(math.pow(math.e, 2))  # Output: 7.3890560989306495
+print(math.exp(2))  # Output: 7.38905609893065
